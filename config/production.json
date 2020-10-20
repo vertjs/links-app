@@ -1,0 +1,7 @@
+{
+    "port": 80,
+    "jwtSecret": "lena booking app",
+    "mongoUri": "mongodb+srv://lena:Qaz12345@cluster0-pbbjx.azure.mongodb.net/test?retryWrites=true&w=majority",
+    "baseUrl": "http://vertjs.ru"
+}
+
